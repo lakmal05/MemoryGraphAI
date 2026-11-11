@@ -6,7 +6,6 @@ contact me for source code : lakmaljayawardana05@gmail.com
 
 MemoryGraph AI converts video observations into object-centric events, records frame citations, and answers a small set of natural-language questions without fabricating unsupported facts. It includes a sample video, a browser dashboard, event data, tests, and a research-style manuscript.
 
-> **Research baseline, not a deployed surveillance product.** This release uses HSV color markers and fixed synthetic entity labels, *not* a general object detector, person re-identification, real-world VLM, multi-camera re-identification, or face recognition. It does not learn who someone is. Events such as "handoff" are inferred from proximity and zone transitions rather than direct hand-contact recognition.
 
 ## Watch the demo
 
